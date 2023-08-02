@@ -79,17 +79,12 @@
 
 
 
-
-<p>&nbsp;<img align="left" src="![image](https://github.com/Maria-Akther-Mimi/Maria-Akther-Mimi/assets/134642219/5074bef3-d3a0-48e8-b6dc-5ff427b98e22)
-" alt="Maria-Akther-Mimi" /></p><br><br><br><br><br><br><br><br>
-
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahnafahmad&show_icons=true&locale=en&layout=compact" alt="ahnafahmad" /></p><br><br><br><br><br><br><br><br>
-
-<p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=ahnafahmad&" alt="ahnafahmad" /></p><br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Maria-Akther-Mimi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Maria-Akther-Mimi" /></p>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ahnafahmad&label=Profile%20views&color=0e75b6&style=flat" alt="ahnafahmad" /> </p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maria-Akther-Mimi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Maria-Akther-Mimi" /></p><br><br><br><br><br><br><br><br>
 
+<p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=Maria-Akther-Mimi&theme=vue-dark&hide_border=true" alt="Maria-Akther-Mimi" /></p><br>
 
 
 <!---
