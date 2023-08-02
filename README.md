@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, This is Maria-Akther-Mimi</h1>
 
-<h3 align="center">A passionate SQA Trainee</h3>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/Software-Test-Management.gif">
 
 
