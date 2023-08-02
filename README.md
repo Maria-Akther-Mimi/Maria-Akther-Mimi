@@ -16,7 +16,7 @@
  <br><h3 align="center">Connect with me:</h3>
 <p align="center">
  <a href="https://www.facebook.com/maria.khanom.391?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/maria.khanom.391?mibextid=ZbWKwL" height="30" width="40" /></a>
-  <a href="https://github.com/Maria-Akther-Mimi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/Maria-Akther-Mimi" height="30" width="40" /></a>
+  <a href="https://github.com/Maria-Akther-Mimi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Maria-Akther-Mimi" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mariamimi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mariamimi/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/mariamimi2247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="[https://www.instagram.com/mariamimi2247/)" height="30" width="40" /></a>
 </p>
@@ -80,7 +80,8 @@
 
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ahnafahmad&show_icons=true&locale=en" alt="ahnafahmad" /></p><br><br><br><br><br><br><br><br>
+<p>&nbsp;<img align="left" src="![image](https://github.com/Maria-Akther-Mimi/Maria-Akther-Mimi/assets/134642219/5074bef3-d3a0-48e8-b6dc-5ff427b98e22)
+" alt="Maria-Akther-Mimi" /></p><br><br><br><br><br><br><br><br>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahnafahmad&show_icons=true&locale=en&layout=compact" alt="ahnafahmad" /></p><br><br><br><br><br><br><br><br>
 
