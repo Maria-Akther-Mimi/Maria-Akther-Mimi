@@ -3,11 +3,10 @@
 <h3 align="center">A passionate SQA Trainee</h3>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/Software-Test-Management.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fariha28345&label=Profile%20views&color=0e75b6&style=flat" alt="fariha28345" /> </p>
 
 - 🌱 I’m currently working on **Web & App Automation Testing Tools & Frameworks.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Maria-Akther-Mimi)
+- 👨‍💻 All of my projects are available at [https://github.com/Maria-Akther-Mimi?tab=repositories)
 
 - 💬 Ask me about **Software Testing, Strategies, Automation Testing Frameworks, Manual Testing.**
 
@@ -16,8 +15,8 @@
  
  <br><h3 align="center">Connect with me:</h3>
 <p align="center">
- <a href="https://www.facebook.com/rafath.idg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/rafath.idg" height="30" width="40" /></a>
-  <a href="https://github.com/ahnafahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ahnaf-ahmad" height="30" width="40" /></a>
+ <a href="https://www.facebook.com/maria.khanom.391?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/maria.khanom.391?mibextid=ZbWKwL" height="30" width="40" /></a>
+  <a href="https://github.com/Maria-Akther-Mimi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/Maria-Akther-Mimi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ahnaf-ahmad-364197132" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahnaf-ahmad-364197132" height="30" width="40" /></a>
 <a href="https://instagram.com/ahnaf_ahmad_rafath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahnaf_ahmad_rafath" height="30" width="40" /></a>
 </p>
